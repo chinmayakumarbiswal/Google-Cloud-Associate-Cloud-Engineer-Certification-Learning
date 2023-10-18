@@ -9,4 +9,4 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
 
 [Setting Up a Cloud Solution Environment Notes.pdf](https://chinmayakumarbiswal.github.io/Google-Cloud-Associate-Cloud-Engineer-Certification-Learning/Setting%20Up%20a%20Cloud%20Solution%20Environment%20study%20plan.pdf)
 
-<iframe src="https://chinmayakumarbiswal.github.io/Google-Cloud-Associate-Cloud-Engineer-Certification-Learning/Setting%20Up%20a%20Cloud%20Solution%20Environment%20study%20plan.pdf" width="100%" height="60%"></iframe>
+<iframe src="https://chinmayakumarbiswal.github.io/Google-Cloud-Associate-Cloud-Engineer-Certification-Learning/Setting%20Up%20a%20Cloud%20Solution%20Environment%20study%20plan.pdf" width="100%" height="720px"></iframe>

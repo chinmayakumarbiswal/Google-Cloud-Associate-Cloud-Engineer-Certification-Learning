@@ -16,22 +16,27 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
 
 
 
-| | | |
-| :---:         |     :---      |          :--- |
-|1. You want to use the Cloud Shell to copy files to your Cloud Storage bucket. Which Cloud SDK command should you use? | Cloud Storage Browser || 
-||gsutil| yes|
-||bq||
-||gcloud||
-
 <table>
     <tr>
-        <td>nsvcdc</td>
-        <td> nsvcdc</td>
-        <td> nsvcdc</td>
+        <td>Q</td>
+        <td> Options</td>
+        <td> Answare</td>
     </tr>
     <tr>
-        <td> nsvcdc</td>
-        <td> nsvcdc</td>
-        <td> nsvcdc</td>
+        <td cows="3"> 1. You want to use the Cloud Shell to copy files to your Cloud Storage bucket. Which Cloud SDK command should you use? </td>
+        <td> Cloud Storage Browser </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> gsutil </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> bq </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> gcloud </td>
+        <td> </td>
     </tr>
 </table>

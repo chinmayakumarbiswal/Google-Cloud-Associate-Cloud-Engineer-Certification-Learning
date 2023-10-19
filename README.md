@@ -12,24 +12,24 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
 <iframe src="https://chinmayakumarbiswal.github.io/Google-Cloud-Associate-Cloud-Engineer-Certification-Learning/Setting%20Up%20a%20Cloud%20Solution%20Environment%20study%20plan.pdf" width="100%" height="720px"></iframe>
 
 
-
+<br><br><br><br>
 
 
 
 <table>
     <tr>
-        <td>Q</td>
-        <td> Options</td>
-        <td> Answare</td>
+        <td>Quiz</td>
+        <td>Question</td>
+        <td>Answer</td>
     </tr>
     <tr>
-        <td cows="3"> 1. You want to use the Cloud Shell to copy files to your Cloud Storage bucket. Which Cloud SDK command should you use? </td>
+        <td rowspan="4"> 1. You want to use the Cloud Shell to copy files to your Cloud Storage bucket. Which Cloud SDK command should you use? </td>
         <td> Cloud Storage Browser </td>
         <td> </td>
     </tr>
     <tr>
         <td> gsutil </td>
-        <td> </td>
+        <td>Yes</td>
     </tr>
     <tr>
         <td> bq </td>

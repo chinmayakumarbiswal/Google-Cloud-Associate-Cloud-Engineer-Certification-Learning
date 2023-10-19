@@ -39,4 +39,21 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
         <td> gcloud </td>
         <td> </td>
     </tr>
+    <tr>
+        <td rowspan="4"> 2. You need to add new groups of employees in Cymbal Superstore’s production environment. You need to consider Google’s recommendation of using least privilege. What should you do? </td>
+        <td>Grant predefined and custom roles that provide necessary permissions and grant basic roles only where needed. </td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td> Grant the least restrictive basic roles to most services and grant predefined and custom roles only when necessary. </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Grant the most restrictive basic role to most services, grant predefined or custom roles as necessary. </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> Grant custom roles to individual users and implement basic roles at the resource level. </td>
+        <td> </td>
+    </tr>
 </table>

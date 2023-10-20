@@ -61,4 +61,4 @@ Cloud computing is the on demand delivery of compute resources like Storage, dat
    **Use Cases:**   Community clouds are common in industries like healthcare, where multiple organizations need to share data while adhering to regulatory requirements. <br>
 
 
-   ![clouddeploymentmodel.png](./src/img/clouddeploymentmodel.png) 
+![clouddeploymentmodel.png](./src/img/clouddeploymentmodel.png) 

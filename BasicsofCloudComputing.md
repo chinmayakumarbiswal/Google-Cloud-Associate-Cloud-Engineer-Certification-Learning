@@ -34,7 +34,7 @@ Cloud computing is the on demand delivery of compute resources like Storage, dat
     **Examples:**    Microsoft Office 365, Salesforce, Google Workspace, Dropbox, and Slack.<br>
 
 
-![cloudservice.jpg](./src/img/cloudservice.jpg) 
+![cloudservice.jpg](./src/img/cloudservicemodel.png) 
 <br><br>
 
 ## Cloud Deployment Models
@@ -58,4 +58,7 @@ Cloud computing is the on demand delivery of compute resources like Storage, dat
 4. Community Cloud:<br>
    **Description:**   A community cloud is a shared cloud infrastructure that is used by a specific community of organizations with shared interests or compliance requirements. It can be managed by one of the community members or a third-party provider.
    
-   **Use Cases:**   Community clouds are common in industries like healthcare, where multiple organizations need to share data while adhering to regulatory requirements. 
+   **Use Cases:**   Community clouds are common in industries like healthcare, where multiple organizations need to share data while adhering to regulatory requirements. <br>
+
+
+   ![clouddeploymentmodel.png](./src/img/clouddeploymentmodel.png) 

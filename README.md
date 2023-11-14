@@ -7,3 +7,5 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
 
 ## Content
 - Topic 1 : [Basics of Cloud Computing](/BasicsofCloudComputing.md)
+- Topic 2 : [GCP Global Location](/GCPGlobalLocation.md)
+- Topic 3 : [Google Cloud Resources Hierarchy](/Google-Cloud-resources-hierarchy.md)
